@@ -19,4 +19,4 @@ Sou Priscilla Nascimento Santos, Mestra em Informática  e atualmente Coordenado
 * Graduação em Licenciatura em Informática 
 * Especialista em Agente de Inovação e Difusão Tecnológica.
 * Mestrado em Informática.
-
+* Curso de Data Science na Prática.
