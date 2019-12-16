@@ -9,7 +9,7 @@ O objetivo desse portfólio é apresentar os projetos de Data Science, utilizand
 
 ## Projetos de Data Science
 
-* **PROJETO 1:** [Nome do Projeto 1](https://github.com/prisantos/portifolio_datascience/blob/master/Analisando_os_Dados_do_Airbnb.ipynb)
+* **Airbnb:** [Analisando os dados do Airbnb](https://github.com/prisantos/portifolio_datascience/blob/master/Analisando_os_Dados_do_Airbnb.ipynb)
 * **PROJETO 2:**  [Nome do Projeto 2]()
 
 ---
