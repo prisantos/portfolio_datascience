@@ -12,7 +12,7 @@ O objetivo desse portfólio é apresentar os projetos de Data Science, utilizand
 
 * **Airbnb:** [Analisando os dados do Airbnb](https://github.com/prisantos/portifolio_datascience/blob/master/Analisando_os_Dados_do_Airbnb.ipynb)
 * **PROJETO 2:**  [Analisando a violência do Rio de Janeiro ]()
-* **Desafio Bemol:**  [Desafio do Curso Fundamentos e Manipulação de Dados- Bemol](https://github.com/prisantos/portfolio_datascience/blob/master/desafio_bemol/Desafio_Final_.ipynb)
+* **Desafio Bemol:**  [Desafio do Curso de Fundamentos e Manipulação de Dados- Bemol](https://github.com/prisantos/portfolio_datascience/blob/master/desafio_bemol/Desafio_Final_.ipynb)
 
 
 ---
